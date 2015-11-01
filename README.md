@@ -10,3 +10,4 @@
 4.连接不用双引号...
 ##听说要上图片
 ![python大法好](http://www.th7.cn/d/file/p/2014/11/23/f66dc70b5cd5004327bc38ce9be76e00.jpg)
+重新试一下
